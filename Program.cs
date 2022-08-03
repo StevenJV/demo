@@ -1,9 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello");
-var names = new List<string>() { "John", "George", "Paul", "Ringo" };
+var names = new List<string>() { "Bono", "TheEdge", "Adam", "Larry" };
 foreach (string name in names)
 {
     Console.WriteLine(name);
 }
-Console.WriteLine("I say hello, you say goodbye.");
-
+Console.WriteLine("Hello, hello (hola) I'm at a place called Vertigo (¿dónde está?)");
